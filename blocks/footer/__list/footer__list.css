@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   padding: 0;
-  margin: 0 ;
+  margin: 0;
 }
 
 @media (max-width:678px) {
@@ -10,5 +10,4 @@
     display: block;
     margin-bottom: 48px;
   }
- 
 }
