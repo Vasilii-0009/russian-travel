@@ -1,0 +1,15 @@
+.cover__block-img {
+  max-width: 1184px;
+  position: relative; 
+  padding: 0 48px;
+}
+
+.cover__block-img:hover .cover__img {
+  opacity: 0.3;
+}
+
+@media (max-width: 1024px) {
+  .cover__block-img {
+    padding: 0;
+  }
+}

@@ -1,0 +1,18 @@
+.lead__block {
+  /* max-width: 984px;
+  width: 100%; */
+  margin: auto;
+  padding: 0 48px;
+}
+
+@media (max-width:768px) {
+  .lead__block {
+    padding: 0 24px;
+  }
+}
+
+@media (max-width:320px) {
+  .lead__block {
+    padding: 0 16px;
+  }
+}

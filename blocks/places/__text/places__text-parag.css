@@ -1,0 +1,16 @@
+.places__text-parag {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+}
+
+.places__text-parag:not(:last-child) {
+  margin-bottom: 26px;
+}
+
+@media(max-width:768px) {
+  .places__text-parag {
+    font-size: 16px;
+  }
+}

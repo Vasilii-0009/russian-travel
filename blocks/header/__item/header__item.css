@@ -1,0 +1,11 @@
+.header__item {
+  color: #fff;
+  font-size: 24px;
+  font-family: 'Inter';
+  font-weight: 400;
+  
+}
+
+.header__item:last-child {
+  text-decoration: none;
+}

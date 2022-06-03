@@ -1,0 +1,11 @@
+.places__adres {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+
+@media (max-width:320px) {
+  .places__adres {
+    margin-bottom: 32px;
+  }
+}
