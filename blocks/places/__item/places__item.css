@@ -10,7 +10,7 @@
   margin-bottom: 80px;
 }
 
-@media(max-width:1024px) {
+@media (max-width:1024px) {
   .places__item {
     display: grid;
     grid-template-columns:  minmax(340px, 440px)  minmax( 352px, 456px);
@@ -20,7 +20,7 @@
   }
 }
 
-@media(max-width:768px) {
+@media (max-width:768px) {
   .places__item {
     display: grid;
     grid-template-columns:  minmax(160px, 340px)  minmax(160px, 352px);
@@ -34,13 +34,13 @@
   }
 }
 
-@media(max-width:476px) {
+@media (max-width:476px) {
   .places__item {
     display: block;
   }
 }
 
-@media(max-width:320px) {
+@media (max-width:320px) {
   .places__item {
     display: block;
   }

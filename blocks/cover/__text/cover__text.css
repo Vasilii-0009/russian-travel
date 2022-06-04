@@ -27,7 +27,7 @@ margin: 0;
 
 @media (max-width:656px) {
   .cover__text {
-    top:200px;
+    top: 200px;
     font-size: 16px;
   }
 }

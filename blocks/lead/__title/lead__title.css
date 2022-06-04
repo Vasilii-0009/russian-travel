@@ -9,7 +9,7 @@
   margin: auto;
   text-align: center;
 }
-@media(max-width:720px) {
+@media (max-width:720px) {
   .lead__title {
     font-size: 60px;
     line-height: 110%;
@@ -17,7 +17,7 @@
   }
 }
 
-@media(max-width:476px) {
+@media (max-width:476px) {
   .lead__title {
     font-size: 40px;
     line-height: 110%;

@@ -1,6 +1,6 @@
 .cover__title {
-  text-decoration: none;
-  color: #fff;
+text-decoration: none;
+color: #fff;
 max-width: 510px;
 width: 100%;
 margin: 0;
@@ -12,8 +12,12 @@ position: absolute;
 top: 245px;
 left: 50%;
 transform: translateX(-50%);
+transition: .3s linear;
 }
 
+.cover__title:hover {
+  opacity: .7;
+}
 @media (max-width:1024px) {
   .cover__title {
     top: 194px;

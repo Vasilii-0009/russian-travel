@@ -3,9 +3,13 @@
   font-size: 24px;
   font-family: 'Inter';
   font-weight: 400;
-  
+  transition: .3s linear;
 }
 
 .header__item:last-child {
   text-decoration: none;
+}
+
+.header__item:hover {
+  opacity: .3;
 }
