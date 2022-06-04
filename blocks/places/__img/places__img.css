@@ -18,7 +18,7 @@
   .places__img {
     width: 100%;
     max-width: 340px;
-    height: 340px; 
+    height: 340px;
     object-fit: cover;
   }
 }
