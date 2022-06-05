@@ -3,15 +3,12 @@ text-decoration: none;
 color: #fff;
 max-width: 510px;
 width: 100%;
-margin: 0;
+margin: 20.7% auto 0 auto;
 font-weight: 900;
 font-size: 72px;
 line-height: 106%;
 text-align: center;
-position: absolute;
-top: 245px;
-left: 50%;
-transform: translateX(-50%);
+z-index: 10;
 transition: .3s linear;
 }
 
@@ -20,19 +17,18 @@ transition: .3s linear;
 }
 @media (max-width:1024px) {
   .cover__title {
-    top: 194px;
+  
   }
 }
 
 @media (max-width:768px) {
   .cover__title {
-    top: 115px;
+
   }
 }
 
 @media (max-width:656px) {
   .cover__title {
-    top: 60px;
     font-size: 45px;
     width: 350px;
   }
@@ -48,7 +44,6 @@ transition: .3s linear;
   .cover__title {
     max-width: 255px;
     width: 100%;
-    top: 38px;
     font-size: 32px;
     line-height: 109%;
   }

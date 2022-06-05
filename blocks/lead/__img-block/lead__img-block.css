@@ -1,4 +1,8 @@
 .lead__img-block {
-  position: relative;
-  padding: 0 0 52% 0;
+}
+
+@media (max-width:768px) {
+  .lead__img-block {
+    margin: 0 -24px;
+  }
 }

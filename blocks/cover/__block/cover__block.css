@@ -1,11 +1,7 @@
 .cover__block {
   max-width: 1184px;
-  position: relative;
+  width: 100%;
   padding: 0 48px;
-}
-
-.cover__block:hover .cover__img {
-  opacity: 0.3;
 }
 
 @media (max-width: 1024px) {
