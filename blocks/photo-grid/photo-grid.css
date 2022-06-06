@@ -5,7 +5,6 @@
  grid-auto-columns: 284px;
  justify-content: center;
  gap: 16px;
- padding: 0 48px;
 }
 
 @media (max-width:1024px) {
@@ -23,7 +22,6 @@
     grid-auto-rows: 264px;
     grid-auto-columns: 352px;
     gap: 16px;
-    padding: 0 24px;
   }
 }
 
@@ -33,6 +31,5 @@
     grid-auto-rows: 216px;
     grid-auto-columns: 288px;
     gap: 16px;
-    padding: 0 16px;
   }
 }
