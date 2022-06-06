@@ -15,11 +15,6 @@ transition: .3s linear;
 .cover__title:hover {
   opacity: .7;
 }
-@media (max-width:1024px) {
-  .cover__title {
-  
-  }
-}
 
 @media (max-width:768px) {
   .cover__title {

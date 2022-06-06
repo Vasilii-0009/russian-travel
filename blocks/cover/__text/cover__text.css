@@ -9,12 +9,6 @@ color: #FFF;
 z-index: 10;
 margin: 32px auto 20.7% auto;
 }
-
-@media (max-width:1024px) {
-  .cover__text {
-  }
-}
-
 @media (max-width:656px) {
   .cover__text {
     font-size: 16px;
