@@ -10,3 +10,9 @@ transition: .3s;
 .places__link:hover {
   opacity: .8;
 }
+
+@media (max-width:320px) {
+  .places__link {
+    padding: 0 16px;
+  }
+}

@@ -4,7 +4,7 @@
   justify-content: end;
 }
 
-@media (max-width:320px) {
+@media (max-width:670px) {
   .places__adres {
     margin-bottom: 32px;
   }

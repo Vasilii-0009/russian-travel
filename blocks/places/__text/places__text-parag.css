@@ -14,3 +14,9 @@
     font-size: 16px;
   }
 }
+
+@media(max-width:320px) {
+  .places__text-parag {
+    padding: 0 16px;
+  }
+}

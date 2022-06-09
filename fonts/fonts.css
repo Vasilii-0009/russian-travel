@@ -7,8 +7,8 @@
 }
 
 @font-face {
-  src: url(./Inter-SemiBold.woff),
-       url(./Inter-SemiBold.woff2);
+  src: url(./Inter-Bold.woff),
+       url(./Inter-Bold.woff2);
   font-family: 'Inter';
   font-weight: 700;
 }

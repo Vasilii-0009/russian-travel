@@ -1,8 +1,0 @@
-.lead__img-block {
-}
-
-@media (max-width:768px) {
-  .lead__img-block {
-    margin: 0 -24px;
-  }
-}

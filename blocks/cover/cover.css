@@ -1,0 +1,11 @@
+.cover {
+  max-width: 1280px;
+  width: calc(100% - 2*48px);
+  margin: auto;
+}
+
+@media (max-width: 1024px) {
+  .cover {
+    width: 100%;
+  }
+}

@@ -1,15 +1,19 @@
 .header__item {
   color: #fff;
   font-size: 24px;
-  font-family: 'Inter';
   font-weight: 400;
   transition: .3s linear;
-}
-
-.header__item:last-child {
+  line-height: 117%;
   text-decoration: none;
 }
 
 .header__item:hover {
-  opacity: .3;
+  opacity: .8;
+}
+
+@media (max-width:320px) {
+  .header__item {
+  font-size: 18px;
+  line-height: 111%;
+  }
 }
